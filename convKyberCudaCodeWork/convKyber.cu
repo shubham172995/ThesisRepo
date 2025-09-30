@@ -263,6 +263,12 @@ int main(){
         Check if you want to initialize the host arrays using heap or stack suffices. Maybe, compare the performances of the two
     */
 
+   /*
+        ****************************************************** TO DO ******************************************************
+
+        Incorporate Fusion Kernels as well.
+    */
+
     /*  
         GET THE bit reversal array. For each number in 0-15, h_bitRevArray holds the reverse bits of it.
         The naming is done as per the naming convention used in ConvKyber paper.
